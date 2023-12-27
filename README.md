@@ -3,9 +3,9 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
+## Notas y solo eso
 Pueden hacer lo que quieran...
-# adios
+# adios y a veces hola
 Como estan??
 asdadasdadadasdasd
 lllllll
